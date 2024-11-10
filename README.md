@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vivek Kumar
-- 👀 I’m interested in Web Development and Problem Solving
-- 🌱 I’m currently learning Web Development
+- Currently exploring Web Dev
+- Involved in Problem Solving as Well
 - 📫 You can reach me at https://www.linkedin.com/in/vivekkumaryadaav/
 
 <!---
